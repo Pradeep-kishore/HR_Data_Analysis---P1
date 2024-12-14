@@ -28,3 +28,12 @@ The primary objective of this project was to analyze employee attendance, sick l
 ## Dashboard
 ![Screenshot (99)](https://github.com/user-attachments/assets/6ca032de-30e3-4e21-b573-3994b5f64297)
 
+## Project insights
+- Departments with higher work-from-home percentages showed stable productivity rates.
+- A noticeable spike in sick leave usage occurred during specific months, suggesting potential seasonal trends.
+- Overall attendance was consistent across most departments, with some outliers requiring further investigation.
+
+## Final Conclusion
+This project successfully highlighted critical workforce trends, offering valuable insights into employee behavior. By understanding attendance, sick leave, and work-from-home patterns, HR teams can design better policies to support employee well-being and enhance productivity. Future enhancements could include predictive analytics to forecast attendance trends and identify high-risk patterns.
+
+
