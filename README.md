@@ -14,7 +14,7 @@ The primary objective of this project was to analyze employee attendance, sick l
 - How does individual performance vary?
 - What are the month-wise and week-wise attendance patterns?
 
-- Dashboard interaction <a href=" https://github.com/Pradeep-kishore/HR_Data_Analysis---P1/blob/main/Project%201.pbix">Dashboard View</a>
+- Dashboard interaction <a href="https://github.com/Pradeep-kishore/HR_Data_Analysis---P1/blob/main/Project%201.pbix">Dashboard View</a>
 
 ## Process
 - Collect HR data including attendance, sick leave, and work-from-home records.
